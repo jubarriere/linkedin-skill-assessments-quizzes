@@ -391,3 +391,10 @@ E. Ellipse
 - [ ] layouts
 - [ ] panel presets
 - [ ] events
+
+#### Q49. What type of edit is about to occur?
+![image](images/006.png?raw=png)
+- [x] Rolling Edit
+- [ ] Trim Out
+- [ ] Trim In
+- [ ] Ripple Trim Out
